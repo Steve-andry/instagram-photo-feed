@@ -1,0 +1,60 @@
+*{
+    border: solid red 1px;
+}
+
+body{
+margin: 0;
+background-color: rgb(218, 216, 216);
+
+}
+.head-contenedor{
+    margin: 0px;
+    display: flex;
+    height: 48px;   
+    background-color: white;
+    
+}
+.photo_feed{
+    display: flex;
+    align-items: center;
+    margin-left: 766px;
+}
+div.contenedor{
+width: 620px;
+margin: auto;
+background-color: rgb(218, 216, 216);
+margin-bottom: 50px;
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    align-items: center;
+    padding-right: 11px;
+    height: 47px;
+} 
+
+.right p{
+    color: gray;
+}
+
+.contenedor img{
+    width: 100%;
+}
+.footer{
+    height: 55px;
+    
+}
+.footer p {
+    padding: 10px 40px 15px 20px;
+    margin: 0;
+}
+.photo{
+    width: 620px;
+    height: 572px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    
+}
